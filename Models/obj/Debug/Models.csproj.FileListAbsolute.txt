@@ -1,0 +1,12 @@
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\bin\Debug\Models.dll.config
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\bin\Debug\Models.dll
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\bin\Debug\Models.pdb
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\bin\Debug\EntityFramework.dll
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\bin\Debug\EntityFramework.xml
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\obj\Debug\Models.dll
+C:\Users\haida\Downloads\My Projects\EntityDataModel\Models\obj\Debug\Models.pdb
