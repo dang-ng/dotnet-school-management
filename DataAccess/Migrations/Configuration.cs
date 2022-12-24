@@ -75,11 +75,11 @@ namespace DataAccess.Migrations
             };
             context.Courses.AddOrUpdate(courses);
             context.SaveChanges();
-
-
-
-
-
+        
+        
+        
+        
+        
         }
     } 
 }
